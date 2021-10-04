@@ -65,7 +65,7 @@ Java
 
 <br>
 
-Download this apk file to your android device.
+Download this jar file to your computer.
 
   
 
@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Email - info@pramuditha-malhara.com
 
-Project Link - [https://github.com/DmetroSK/Calculator](https://github.com/DmetroSK/Universal-Calculator)
+Project Link - [https://github.com/DmetroSK/Tic-Tac-Toe](https://github.com/DmetroSK/Tic-Tac-Toe)
 
 <br>
 
